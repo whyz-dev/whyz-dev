@@ -18,16 +18,16 @@
 
 ## 🏆 Activities
 
-### 💻 Competitive Programming
+### 💻 Problem Solving
 <p align="left">
   <a href="https://solved.ac/aura02">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=aura02" alt="Solved.ac Profile"/>
   </a>
 </p>
 
-### 📊 Data Science & ML Competitions
+### 🤖 Data Science & ML Competitions
 <p align="left">
-  <a href="https://www.kaggle.com/[]">
+  <a href="https://www.kaggle.com/aura02">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 <a href="https://dacon.io/myprofile/273311/home">
@@ -35,8 +35,12 @@
 </a>
 </p>
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whyz-dev&show_icons=true&theme=dracula&count_private=true" alt="My GitHub Stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyz-dev&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
