@@ -44,3 +44,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyz-dev&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
+
+<h2 align="center">📫 Blog</h2>
+<p align="center">
+  <a href="https://whyz-dev.github.io/">
+    <img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=github-pages&logoColor=white" alt="My Blog"/>
+  </a>
+  </p>
