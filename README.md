@@ -38,7 +38,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyz-dev&show_icons=true&theme=dracula&count_private=true" alt="My GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whyz-dev&count_private=true&show_icons=true&theme=dracula" alt="My GitHub Stats"/>
 </p>
 
 <p align="center">
